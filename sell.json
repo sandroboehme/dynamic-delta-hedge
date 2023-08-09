@@ -1,0 +1,7 @@
+{
+    "instrument_name": "BTC-11AUG23-30000-C",
+    "amount": 1,
+    "type": "limit",
+    "label": "Sandro console",
+    "price": 0.005
+}

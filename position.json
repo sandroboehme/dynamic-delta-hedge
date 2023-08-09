@@ -1,0 +1,29 @@
+{
+  "jsonrpc": "2.0",
+  "result": {
+    "vega": -10.74466,
+    "total_profit_loss": -0.000184883,
+    "theta": 32.18251,
+    "size": -1.0,
+    "settlement_price": 0.00522734,
+    "realized_profit_loss": -0.0025,
+    "open_orders_margin": 0.0,
+    "mark_price": 0.00518488,
+    "maintenance_margin": 0.080184883,
+    "kind": "option",
+    "instrument_name": "BTC-11AUG23-30000-C",
+    "initial_margin": 0.121882583,
+    "index_price": 29033.13,
+    "gamma": -0.00026,
+    "floating_profit_loss_usd": -5.33985249,
+    "floating_profit_loss": -0.000184883,
+    "direction": "sell",
+    "delta": -0.22733,
+    "average_price_usd": 145.19352969,
+    "average_price": 0.005
+  },
+  "usIn": 1691267983252630,
+  "usOut": 1691267983253036,
+  "usDiff": 406,
+  "testnet": true
+}
